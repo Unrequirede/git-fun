@@ -1,0 +1,27 @@
+.coolStuffWrapper {
+    margin-top: 20px;
+}
+
+button.coolStuffBtn {
+    background-color: red;
+    color: #FFFFFF;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #CCCCCC;
+    padding: 2rem;
+}
+
+div.main-carousel {
+    margin-bottom: 2rem;
+}
