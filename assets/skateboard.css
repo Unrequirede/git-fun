@@ -25,3 +25,45 @@ h5.modal-title {
 div.main-carousel {
     margin-bottom: 2rem;
 }
+
+.modalFormWrapper {
+    padding: 2rem;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+    padding: 1rem;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 88%
+}
+
+.classic-video {
+    display: block;
+    height: auto;
+}
+
+.modal-dialog {
+    max-width:70%;
+    min-width:600px;
+}
+
+.youtube-embed {
+  position: relative;
+  padding-bottom: 56%;
+  width: 100%;
+  text-align: left;
+}
+
+.youtube-embed iframe {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+  overflow: hidden;
+}
