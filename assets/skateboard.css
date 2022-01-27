@@ -67,3 +67,27 @@ div.main-carousel {
   height: 100%;
   overflow: hidden;
 }
+
+.socialWrapper {
+    margin: auto;
+}
+
+.socialWrapper .fa-facebook-f {
+    display: inline-block;
+    margin: auto;
+    color: #3B5998;
+}
+
+.socialWrapper .fa-twitter {
+    display: inline-block;
+    margin: auto;
+    color: #00ACEE;
+    margin-left: 1rem;
+}
+
+.socialWrapper .fa-instagram {
+    display: inline-block;
+    margin: auto;
+    color: #DD2A7B;
+    margin-left: 1rem;
+}
